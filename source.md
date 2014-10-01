@@ -82,15 +82,16 @@ Subslide:
 
 * Ventajas
     1. No DB!<!-- .element: class="fragment" data-fragment-index="1"-->
-    2. Seguridad<!-- .element: class="fragment" data-fragment-index="2"-->
-    3. Código fuente del sitio<!-- .element: class="fragment" data-fragment-index="3"-->
-    4. Blogging desde la consola<!-- .element: class="fragment" data-fragment-index="4"-->
-    5. Simple deployment<!-- .element: class="fragment" data-fragment-index="5"-->
-    6. Js, ruby, python, bash...<!-- .element: class="fragment" data-fragment-index="6"-->
+    2. Markdown](https://guides.github.com/features/mastering-markdown/) -> html<!-- .element: class="fragment" data-fragment-index="2"-->
+    3. Seguridad<!-- .element: class="fragment" data-fragment-index="3"-->
+    4. Código fuente del sitio<!-- .element: class="fragment" data-fragment-index="4"-->
+    5. Blogging desde la consola<!-- .element: class="fragment" data-fragment-index="5"-->
+    6. Simple deployment<!-- .element: class="fragment" data-fragment-index="6"-->
+    7. Js, ruby, python, bash...<!-- .element: class="fragment" data-fragment-index="7"-->
 
 * Desventajas
-    1. Curva de aprendizaje<!-- .element: class="fragment" data-fragment-index="7"-->
-    2. Difíciles de configurar la primera vez<!-- .element: class="fragment" data-fragment-index="8"-->
+    1. Curva de aprendizaje<!-- .element: class="fragment" data-fragment-index="8"-->
+    2. Difíciles de configurar la primera vez<!-- .element: class="fragment" data-fragment-index="9"-->
 
 Subslide:
 
