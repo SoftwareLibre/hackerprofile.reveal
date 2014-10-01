@@ -82,7 +82,7 @@ Subslide:
 
 * Ventajas
     1. No DB!<!-- .element: class="fragment" data-fragment-index="1"-->
-    2. Markdown](https://guides.github.com/features/mastering-markdown/) -> html<!-- .element: class="fragment" data-fragment-index="2"-->
+    2. [Markdown](https://guides.github.com/features/mastering-markdown/) -> html<!-- .element: class="fragment" data-fragment-index="2"-->
     3. Seguridad<!-- .element: class="fragment" data-fragment-index="3"-->
     4. Código fuente del sitio<!-- .element: class="fragment" data-fragment-index="4"-->
     5. Blogging desde la consola<!-- .element: class="fragment" data-fragment-index="5"-->
